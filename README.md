@@ -1,1 +1,1 @@
-# 2024_huma_num_lecture
+# Welcome to the 2024 digital humanities lecture repository
